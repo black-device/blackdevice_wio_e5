@@ -1,6 +1,6 @@
 # WiLoBLino board example
 
-WiLoBLino is a development board with an ESP32 and a Wio-E5 module. It can work as a stand-alone board or as a hat for multiple Arduino boards.
+WiLoBLino is a development board with an ESP32 and a [Wio-E5 module](https://www.seeedstudio.com/LoRa-E5-Wireless-Module-p-4745.html). It can work as a stand-alone board or as a hat for multiple Arduino boards.
 It uses an USB serial port to communicate with the different devices of the board.
 Because the serial USB port is shared, it is important to take care the way you program and run the program in this board. 
 
